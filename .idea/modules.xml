@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BddRestAssuredJavaAPI.iml" filepath="$PROJECT_DIR$/BddRestAssuredJavaAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bddRA/bddRA.iml" filepath="$PROJECT_DIR$/bddRA/bddRA.iml" />
     </modules>
   </component>
 </project>
